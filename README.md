@@ -12,3 +12,17 @@ This repo represents the initial phase of my dissertation work towards employing
 LIMITATIONS:
 
 Regardless of the technique, we are only limited to the data that is available, and the results and analysis should be viewed as such. It is also not expected that a machine learning model will make crystal clear all cases and causes for suicide, but instead potentially illuminate previously unknown factors, while also opening the discussion to what we think we know and how we approach developing effective public health policy and solutions.
+
+IMPORTANT DISCLAIMER:
+
+The Public Health Service Act (Section 308 (d)) provides that the data collected by the National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC), may be used only for the purpose of health statistical reporting and analysis.
+
+Any effort to determine the identity of any reported case is prohibited by this law.
+
+NCHS does all it can to assure that the identity of data subjects cannot be disclosed. All direct identifiers, as well as any characteristics that might lead to identification, are omitted from the dataset. Any intentional identification or disclosure of a person or establishment violates the assurances of confidentiality given to the providers of the information. Therefore, users will:
+
+* Use the data in this dataset for statistical reporting and analysis only.
+* Make no use of the identity of any person or establishment discovered inadvertently and advise the Director, NCHS, of any such discovery.
+* Not link this dataset with individually identifiable data from other NCHS or non- NCHS datasets.
+
+By using these data you signify your agreement to comply with the above-stated statutorily based requirements. 
