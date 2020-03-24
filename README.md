@@ -1,6 +1,8 @@
 # Exploratory Analysis of 2018 National Vital Statistics Mortality Data
 This repo is comprised of the parsing and initial exploratory analysis of all US mortality data from 2018.
 
+IMPLEMENTATION:
+
 * First, use the **2018_mort_to_csv** notebook to parse the 2018 mortality data.
 
 * Once in (parsed) csv format, the data can then be read-in using the **mort_data_ml_exploration** notebook.
